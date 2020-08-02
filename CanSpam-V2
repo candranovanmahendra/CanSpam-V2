@@ -6,15 +6,18 @@ blu="\033[1;96m"
 sleep 1
 echo
 echo "${blu} [!] Loading . . ."
+sleep 1
 echo "${blu} Orang sabar di sayang tuhan:)"
 sleep 10
 clear
 
-figlet Spam Call | lolcat
+toilet -f big -F gay Spam Call
+echo
+sleep 1
 echo "${red}══════════════════════════════════"
-echo "${blu} Author  : MR.GRIMX72"
-echo "${blu} Youtube : Belum Ada"
-echo "${blu} Version : Spam Version 1"
+echo "${blu}| Author  : MR.GRIMX72                                                                                    |"
+echo "${blu}| Youtube : Belum Ada                                                                                       |"
+echo "${blu}| Version : Spam Version 2                                                                                |"
 echo "${red}══════════════════════════════════\n${blu}"
 sleep 1
 read -p "[+] Masukan No Target : " nomor
